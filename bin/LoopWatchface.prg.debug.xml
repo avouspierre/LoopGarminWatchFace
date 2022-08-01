@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="1" lineNum="8" parent="globals/HeaderDrawable" pc="268436167" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="1" lineNum="9" parent="globals/HeaderDrawable" pc="268436171" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="1" lineNum="13" parent="globals/HeaderDrawable" pc="268436192" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="16" parent="globals/HeaderDrawable" pc="268436213" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="17" parent="globals/HeaderDrawable" pc="268436217" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="18" parent="globals/HeaderDrawable" pc="268436228" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="20" parent="globals/HeaderDrawable" pc="268436245" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="21" parent="globals/HeaderDrawable" pc="268436258" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="22" parent="globals/HeaderDrawable" pc="268436271" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="23" parent="globals/HeaderDrawable" pc="268436298" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="24" parent="globals/HeaderDrawable" pc="268436311" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="25" parent="globals/HeaderDrawable" pc="268436324" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="26" parent="globals/HeaderDrawable" pc="268436351" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="27" parent="globals/HeaderDrawable" pc="268436376" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="29" parent="globals/HeaderDrawable" pc="268436401" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="30" parent="globals/HeaderDrawable" pc="268436411" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="32" parent="globals/HeaderDrawable" pc="268436421" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="33" parent="globals/HeaderDrawable" pc="268436447" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="35" parent="globals/HeaderDrawable" pc="268436489" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="37" parent="globals/HeaderDrawable" pc="268436525" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="43" parent="globals/HeaderDrawable" pc="268436594" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="45" parent="globals/HeaderDrawable" pc="268436642" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="46" parent="globals/HeaderDrawable" pc="268436655" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="48" parent="globals/HeaderDrawable" pc="268436670" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="49" parent="globals/HeaderDrawable" pc="268436696" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="51" parent="globals/HeaderDrawable" pc="268436713" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="53" parent="globals/HeaderDrawable" pc="268436761" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="54" parent="globals/HeaderDrawable" pc="268436804" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="2" lineNum="56" parent="globals/HeaderDrawable" pc="268436840" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="63" parent="globals/HeaderDrawable" pc="268436904" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="64" parent="globals/HeaderDrawable" pc="268436908" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="65" parent="globals/HeaderDrawable" pc="268436936" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="66" parent="globals/HeaderDrawable" pc="268436943" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="68" parent="globals/HeaderDrawable" pc="268436952" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="70" parent="globals/HeaderDrawable" pc="268436962" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="3" lineNum="72" parent="globals/HeaderDrawable" pc="268436981" symbol="getGlucoseText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="75" parent="globals/HeaderDrawable" pc="268436985" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="76" parent="globals/HeaderDrawable" pc="268436989" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="77" parent="globals/HeaderDrawable" pc="268437017" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="78" parent="globals/HeaderDrawable" pc="268437024" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="80" parent="globals/HeaderDrawable" pc="268437033" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="82" parent="globals/HeaderDrawable" pc="268437043" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="4" lineNum="84" parent="globals/HeaderDrawable" pc="268437062" symbol="getDeltaText"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="87" parent="globals/HeaderDrawable" pc="268437066" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="88" parent="globals/HeaderDrawable" pc="268437070" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="89" parent="globals/HeaderDrawable" pc="268437107" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="90" parent="globals/HeaderDrawable" pc="268437135" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="91" parent="globals/HeaderDrawable" pc="268437142" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="93" parent="globals/HeaderDrawable" pc="268437148" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="94" parent="globals/HeaderDrawable" pc="268437158" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="95" parent="globals/HeaderDrawable" pc="268437165" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="98" parent="globals/HeaderDrawable" pc="268437171" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="122" parent="globals/HeaderDrawable" pc="268437354" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="100" parent="globals/HeaderDrawable" pc="268437360" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="101" parent="globals/HeaderDrawable" pc="268437397" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="103" parent="globals/HeaderDrawable" pc="268437400" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="104" parent="globals/HeaderDrawable" pc="268437437" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="106" parent="globals/HeaderDrawable" pc="268437440" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="107" parent="globals/HeaderDrawable" pc="268437477" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="109" parent="globals/HeaderDrawable" pc="268437480" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="110" parent="globals/HeaderDrawable" pc="268437517" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="112" parent="globals/HeaderDrawable" pc="268437520" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="113" parent="globals/HeaderDrawable" pc="268437557" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="116" parent="globals/HeaderDrawable" pc="268437560" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="117" parent="globals/HeaderDrawable" pc="268437597" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="120" parent="globals/HeaderDrawable" pc="268437600" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="121" parent="globals/HeaderDrawable" pc="268437637" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="5" lineNum="125" parent="globals/HeaderDrawable" pc="268437643" symbol="getDirection"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="128" parent="globals/HeaderDrawable" pc="268437647" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="129" parent="globals/HeaderDrawable" pc="268437651" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="130" parent="globals/HeaderDrawable" pc="268437679" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="131" parent="globals/HeaderDrawable" pc="268437686" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="133" parent="globals/HeaderDrawable" pc="268437695" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="135" parent="globals/HeaderDrawable" pc="268437705" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="136" parent="globals/HeaderDrawable" pc="268437712" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="139" parent="globals/HeaderDrawable" pc="268437721" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="141" parent="globals/HeaderDrawable" pc="268437747" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="6" lineNum="143" parent="globals/HeaderDrawable" pc="268437760" symbol="getMinutes"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="146" parent="globals/HeaderDrawable" pc="268437764" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="147" parent="globals/HeaderDrawable" pc="268437768" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="148" parent="globals/HeaderDrawable" pc="268437779" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="149" parent="globals/HeaderDrawable" pc="268437795" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="150" parent="globals/HeaderDrawable" pc="268437806" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="151" parent="globals/HeaderDrawable" pc="268437822" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="152" parent="globals/HeaderDrawable" pc="268437833" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="7" lineNum="154" parent="globals/HeaderDrawable" pc="268437849" symbol="getLoopColor"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="8" lineNum="7" parent="globals/HeaderDrawable" pc="268441898" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/drawables/Header.mc" id="8" lineNum="7" parent="globals/HeaderDrawable" pc="268441898" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="10" lineNum="10" parent="globals/LoopBGServiceDelegate" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="10" lineNum="11" parent="globals/LoopBGServiceDelegate" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="11" lineNum="14" parent="globals/LoopBGServiceDelegate" pc="268435479" symbol="onTemporalEvent"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="11" lineNum="15" parent="globals/LoopBGServiceDelegate" pc="268435483" symbol="onTemporalEvent"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="11" lineNum="16" parent="globals/LoopBGServiceDelegate" pc="268435504" symbol="onTemporalEvent"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="12" lineNum="19" parent="globals/LoopBGServiceDelegate" pc="268435565" symbol="onPhoneAppMessage"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="12" lineNum="20" parent="globals/LoopBGServiceDelegate" pc="268435569" symbol="onPhoneAppMessage"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="12" lineNum="21" parent="globals/LoopBGServiceDelegate" pc="268435593" symbol="onPhoneAppMessage"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="12" lineNum="22" parent="globals/LoopBGServiceDelegate" pc="268435628" symbol="onPhoneAppMessage"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="13" lineNum="25" parent="globals/LoopBGServiceDelegate" pc="268435646" symbol="onTransmitComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="13" lineNum="26" parent="globals/LoopBGServiceDelegate" pc="268435650" symbol="onTransmitComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="13" lineNum="27" parent="globals/LoopBGServiceDelegate" pc="268435655" symbol="onTransmitComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="13" lineNum="29" parent="globals/LoopBGServiceDelegate" pc="268435679" symbol="onTransmitComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="13" lineNum="31" parent="globals/LoopBGServiceDelegate" pc="268435700" symbol="onTransmitComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="14" lineNum="9" parent="globals/LoopBGServiceDelegate" pc="268436110" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopBGServiceDelegate.mc" id="14" lineNum="9" parent="globals/LoopBGServiceDelegate" pc="268436110" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="16" lineNum="11" parent="globals/LoopWatchfaceApp" pc="268435719" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="16" lineNum="12" parent="globals/LoopWatchfaceApp" pc="268435723" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="16" parent="globals/LoopWatchfaceApp" pc="268435742" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="18" parent="globals/LoopWatchfaceApp" pc="268435746" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="20" parent="globals/LoopWatchfaceApp" pc="268435769" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="21" parent="globals/LoopWatchfaceApp" pc="268435816" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="22" parent="globals/LoopWatchfaceApp" pc="268435832" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="17" lineNum="24" parent="globals/LoopWatchfaceApp" pc="268435856" symbol="onStart"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="18" lineNum="30" parent="globals/LoopWatchfaceApp" pc="268435878" symbol="onStop"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="19" lineNum="34" parent="globals/LoopWatchfaceApp" pc="268435883" symbol="getInitialView"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="19" lineNum="35" parent="globals/LoopWatchfaceApp" pc="268435887" symbol="getInitialView"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="20" lineNum="39" parent="globals/LoopWatchfaceApp" pc="268435925" symbol="onSettingsChanged"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="20" lineNum="40" parent="globals/LoopWatchfaceApp" pc="268435929" symbol="onSettingsChanged"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="21" lineNum="43" parent="globals/LoopWatchfaceApp" pc="268435946" symbol="onBackgroundData"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="21" lineNum="44" parent="globals/LoopWatchfaceApp" pc="268435950" symbol="onBackgroundData"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="22" lineNum="47" parent="globals/LoopWatchfaceApp" pc="268435984" symbol="getServiceDelegate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="22" lineNum="48" parent="globals/LoopWatchfaceApp" pc="268435988" symbol="getServiceDelegate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="23" lineNum="10" parent="globals/LoopWatchfaceApp" pc="268436148" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="23" lineNum="10" parent="globals/LoopWatchfaceApp" pc="268436148" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="24" lineNum="52" parent="globals" pc="268437863" symbol="getApp"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceApp.mc" id="24" lineNum="53" parent="globals" pc="268437875" symbol="getApp"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="26" lineNum="12" parent="globals/LoopWatchfaceView" pc="268437892" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="26" lineNum="13" parent="globals/LoopWatchfaceView" pc="268437896" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="27" lineNum="17" parent="globals/LoopWatchfaceView" pc="268437915" symbol="onLayout"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="27" lineNum="18" parent="globals/LoopWatchfaceView" pc="268437919" symbol="onLayout"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="28" lineNum="24" parent="globals/LoopWatchfaceView" pc="268437957" symbol="onShow"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="28" lineNum="25" parent="globals/LoopWatchfaceView" pc="268437961" symbol="onShow"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="29" parent="globals/LoopWatchfaceView" pc="268437983" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="30" parent="globals/LoopWatchfaceView" pc="268437987" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="31" parent="globals/LoopWatchfaceView" pc="268437999" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="32" parent="globals/LoopWatchfaceView" pc="268438011" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="33" parent="globals/LoopWatchfaceView" pc="268438023" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="34" parent="globals/LoopWatchfaceView" pc="268438035" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="35" parent="globals/LoopWatchfaceView" pc="268438047" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="36" parent="globals/LoopWatchfaceView" pc="268438059" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="29" lineNum="38" parent="globals/LoopWatchfaceView" pc="268438071" symbol="onUpdate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="41" parent="globals/LoopWatchfaceView" pc="268438092" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="43" parent="globals/LoopWatchfaceView" pc="268438096" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="44" parent="globals/LoopWatchfaceView" pc="268438103" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="45" parent="globals/LoopWatchfaceView" pc="268438120" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="46" parent="globals/LoopWatchfaceView" pc="268438130" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="47" parent="globals/LoopWatchfaceView" pc="268438137" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="48" parent="globals/LoopWatchfaceView" pc="268438162" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="49" parent="globals/LoopWatchfaceView" pc="268438173" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="50" parent="globals/LoopWatchfaceView" pc="268438183" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="52" parent="globals/LoopWatchfaceView" pc="268438193" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="55" parent="globals/LoopWatchfaceView" pc="268438203" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="56" parent="globals/LoopWatchfaceView" pc="268438210" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="58" parent="globals/LoopWatchfaceView" pc="268438228" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="61" parent="globals/LoopWatchfaceView" pc="268438296" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="62" parent="globals/LoopWatchfaceView" pc="268438320" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="30" lineNum="63" parent="globals/LoopWatchfaceView" pc="268438357" symbol="setTime"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="66" parent="globals/LoopWatchfaceView" pc="268438372" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="67" parent="globals/LoopWatchfaceView" pc="268438376" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="68" parent="globals/LoopWatchfaceView" pc="268438393" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="69" parent="globals/LoopWatchfaceView" pc="268438424" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="71" parent="globals/LoopWatchfaceView" pc="268438500" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="72" parent="globals/LoopWatchfaceView" pc="268438524" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="31" lineNum="73" parent="globals/LoopWatchfaceView" pc="268438561" symbol="setDate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="76" parent="globals/LoopWatchfaceView" pc="268438576" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="77" parent="globals/LoopWatchfaceView" pc="268438580" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="78" parent="globals/LoopWatchfaceView" pc="268438597" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="80" parent="globals/LoopWatchfaceView" pc="268438607" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="82" parent="globals/LoopWatchfaceView" pc="268438635" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="32" lineNum="83" parent="globals/LoopWatchfaceView" pc="268438659" symbol="setHeartRate"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="86" parent="globals/LoopWatchfaceView" pc="268438674" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="88" parent="globals/LoopWatchfaceView" pc="268438678" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="89" parent="globals/LoopWatchfaceView" pc="268438695" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="90" parent="globals/LoopWatchfaceView" pc="268438705" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="92" parent="globals/LoopWatchfaceView" pc="268438757" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="93" parent="globals/LoopWatchfaceView" pc="268438774" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="94" parent="globals/LoopWatchfaceView" pc="268438784" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="96" parent="globals/LoopWatchfaceView" pc="268438826" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="33" lineNum="97" parent="globals/LoopWatchfaceView" pc="268438850" symbol="setSteps"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="100" parent="globals/LoopWatchfaceView" pc="268438865" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="101" parent="globals/LoopWatchfaceView" pc="268438869" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="103" parent="globals/LoopWatchfaceView" pc="268438893" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="104" parent="globals/LoopWatchfaceView" pc="268438921" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="105" parent="globals/LoopWatchfaceView" pc="268438928" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="106" parent="globals/LoopWatchfaceView" pc="268438945" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="108" parent="globals/LoopWatchfaceView" pc="268438949" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="110" parent="globals/LoopWatchfaceView" pc="268438959" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="34" lineNum="112" parent="globals/LoopWatchfaceView" pc="268438998" symbol="setIOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="115" parent="globals/LoopWatchfaceView" pc="268439013" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="116" parent="globals/LoopWatchfaceView" pc="268439017" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="118" parent="globals/LoopWatchfaceView" pc="268439041" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="119" parent="globals/LoopWatchfaceView" pc="268439069" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="120" parent="globals/LoopWatchfaceView" pc="268439076" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="121" parent="globals/LoopWatchfaceView" pc="268439093" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="123" parent="globals/LoopWatchfaceView" pc="268439097" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="125" parent="globals/LoopWatchfaceView" pc="268439107" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="35" lineNum="127" parent="globals/LoopWatchfaceView" pc="268439146" symbol="setCOB"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="130" parent="globals/LoopWatchfaceView" pc="268439161" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="131" parent="globals/LoopWatchfaceView" pc="268439165" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="132" parent="globals/LoopWatchfaceView" pc="268439189" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="134" parent="globals/LoopWatchfaceView" pc="268439226" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="135" parent="globals/LoopWatchfaceView" pc="268439254" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="136" parent="globals/LoopWatchfaceView" pc="268439261" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="137" parent="globals/LoopWatchfaceView" pc="268439278" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="139" parent="globals/LoopWatchfaceView" pc="268439282" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="141" parent="globals/LoopWatchfaceView" pc="268439292" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="36" lineNum="143" parent="globals/LoopWatchfaceView" pc="268439311" symbol="setEventualBG"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="37" lineNum="149" parent="globals/LoopWatchfaceView" pc="268439326" symbol="onHide"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="38" lineNum="153" parent="globals/LoopWatchfaceView" pc="268439331" symbol="onExitSleep"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="39" lineNum="157" parent="globals/LoopWatchfaceView" pc="268439336" symbol="onEnterSleep"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="40" lineNum="11" parent="globals/LoopWatchfaceView" pc="268441879" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceView.mc" id="40" lineNum="11" parent="globals/LoopWatchfaceView" pc="268441879" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="42" lineNum="8" parent="globals/Background" pc="268439341" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="42" lineNum="9" parent="globals/Background" pc="268439345" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="42" lineNum="13" parent="globals/Background" pc="268439366" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="43" lineNum="16" parent="globals/Background" pc="268439387" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="43" lineNum="18" parent="globals/Background" pc="268439391" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="43" lineNum="19" parent="globals/Background" pc="268439440" symbol="draw"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="44" lineNum="6" parent="globals/Background" pc="268441860" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/LoopWatchfaceBackground.mc" id="44" lineNum="6" parent="globals/Background" pc="268441860" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="46" lineNum="8" parent="globals/CommsRelay" pc="268436026" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="46" lineNum="9" parent="globals/CommsRelay" pc="268436030" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="46" lineNum="10" parent="globals/CommsRelay" pc="268436048" symbol="initialize"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="47" lineNum="13" parent="globals/CommsRelay" pc="268436059" symbol="onComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="47" lineNum="14" parent="globals/CommsRelay" pc="268436063" symbol="onComplete"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="48" lineNum="17" parent="globals/CommsRelay" pc="268436084" symbol="onError"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="48" lineNum="18" parent="globals/CommsRelay" pc="268436088" symbol="onError"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="49" lineNum="5" parent="globals/CommsRelay" pc="268436129" symbol="&lt;init&gt;"/>
+<entry filename="/Users/pierrelagarde/Code/Loop/Loop2Garmin/LoopWatchface/source/CommsRelay.mc" id="49" lineNum="5" parent="globals/CommsRelay" pc="268436129" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="51" lineNum="23" parent="globals/Rez/Drawables/line1" pc="268439453" symbol="initialize"/>
+<entry filename="Rez" id="51" lineNum="24" parent="globals/Rez/Drawables/line1" pc="268439457" symbol="initialize"/>
+<entry filename="Rez" id="52" lineNum="27" parent="globals/Rez/Drawables/line1" pc="268439482" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="28" parent="globals/Rez/Drawables/line1" pc="268439486" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="29" parent="globals/Rez/Drawables/line1" pc="268439497" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="30" parent="globals/Rez/Drawables/line1" pc="268439509" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="35" parent="globals/Rez/Drawables/line1" pc="268439516" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="36" parent="globals/Rez/Drawables/line1" pc="268439552" symbol="draw"/>
+<entry filename="Rez" id="53" lineNum="21" parent="globals/Rez/Drawables/line1" pc="268441961" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="53" lineNum="21" parent="globals/Rez/Drawables/line1" pc="268441961" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="54" lineNum="49" parent="globals/Rez/Drawables/line2" pc="268439585" symbol="initialize"/>
+<entry filename="Rez" id="54" lineNum="50" parent="globals/Rez/Drawables/line2" pc="268439589" symbol="initialize"/>
+<entry filename="Rez" id="55" lineNum="53" parent="globals/Rez/Drawables/line2" pc="268439614" symbol="draw"/>
+<entry filename="Rez" id="55" lineNum="54" parent="globals/Rez/Drawables/line2" pc="268439618" symbol="draw"/>
+<entry filename="Rez" id="55" lineNum="55" parent="globals/Rez/Drawables/line2" pc="268439629" symbol="draw"/>
+<entry filename="Rez" id="55" lineNum="56" parent="globals/Rez/Drawables/line2" pc="268439641" symbol="draw"/>
+<entry filename="Rez" id="55" lineNum="61" parent="globals/Rez/Drawables/line2" pc="268439648" symbol="draw"/>
+<entry filename="Rez" id="55" lineNum="62" parent="globals/Rez/Drawables/line2" pc="268439684" symbol="draw"/>
+<entry filename="Rez" id="56" lineNum="47" parent="globals/Rez/Drawables/line2" pc="268441942" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="47" parent="globals/Rez/Drawables/line2" pc="268441942" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="57" lineNum="77" parent="globals/Rez/Drawables/Eventual" pc="268439717" symbol="initialize"/>
+<entry filename="Rez" id="57" lineNum="78" parent="globals/Rez/Drawables/Eventual" pc="268439721" symbol="initialize"/>
+<entry filename="Rez" id="57" lineNum="79" parent="globals/Rez/Drawables/Eventual" pc="268439745" symbol="initialize"/>
+<entry filename="Rez" id="58" lineNum="82" parent="globals/Rez/Drawables/Eventual" pc="268439793" symbol="draw"/>
+<entry filename="Rez" id="58" lineNum="83" parent="globals/Rez/Drawables/Eventual" pc="268439797" symbol="draw"/>
+<entry filename="Rez" id="58" lineNum="84" parent="globals/Rez/Drawables/Eventual" pc="268439808" symbol="draw"/>
+<entry filename="Rez" id="58" lineNum="85" parent="globals/Rez/Drawables/Eventual" pc="268439820" symbol="draw"/>
+<entry filename="Rez" id="58" lineNum="90" parent="globals/Rez/Drawables/Eventual" pc="268439827" symbol="draw"/>
+<entry filename="Rez" id="59" lineNum="73" parent="globals/Rez/Drawables/Eventual" pc="268441999" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="59" lineNum="73" parent="globals/Rez/Drawables/Eventual" pc="268441999" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="60" lineNum="105" parent="globals/Rez/Drawables/HeartRate" pc="268439858" symbol="initialize"/>
+<entry filename="Rez" id="60" lineNum="106" parent="globals/Rez/Drawables/HeartRate" pc="268439862" symbol="initialize"/>
+<entry filename="Rez" id="60" lineNum="107" parent="globals/Rez/Drawables/HeartRate" pc="268439886" symbol="initialize"/>
+<entry filename="Rez" id="61" lineNum="110" parent="globals/Rez/Drawables/HeartRate" pc="268439934" symbol="draw"/>
+<entry filename="Rez" id="61" lineNum="111" parent="globals/Rez/Drawables/HeartRate" pc="268439938" symbol="draw"/>
+<entry filename="Rez" id="61" lineNum="112" parent="globals/Rez/Drawables/HeartRate" pc="268439949" symbol="draw"/>
+<entry filename="Rez" id="61" lineNum="113" parent="globals/Rez/Drawables/HeartRate" pc="268439961" symbol="draw"/>
+<entry filename="Rez" id="61" lineNum="118" parent="globals/Rez/Drawables/HeartRate" pc="268439968" symbol="draw"/>
+<entry filename="Rez" id="62" lineNum="101" parent="globals/Rez/Drawables/HeartRate" pc="268441980" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="62" lineNum="101" parent="globals/Rez/Drawables/HeartRate" pc="268441980" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="63" lineNum="133" parent="globals/Rez/Drawables/StepsIcon" pc="268439999" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="134" parent="globals/Rez/Drawables/StepsIcon" pc="268440003" symbol="initialize"/>
+<entry filename="Rez" id="63" lineNum="135" parent="globals/Rez/Drawables/StepsIcon" pc="268440027" symbol="initialize"/>
+<entry filename="Rez" id="64" lineNum="138" parent="globals/Rez/Drawables/StepsIcon" pc="268440075" symbol="draw"/>
+<entry filename="Rez" id="64" lineNum="139" parent="globals/Rez/Drawables/StepsIcon" pc="268440079" symbol="draw"/>
+<entry filename="Rez" id="64" lineNum="140" parent="globals/Rez/Drawables/StepsIcon" pc="268440090" symbol="draw"/>
+<entry filename="Rez" id="64" lineNum="141" parent="globals/Rez/Drawables/StepsIcon" pc="268440102" symbol="draw"/>
+<entry filename="Rez" id="64" lineNum="146" parent="globals/Rez/Drawables/StepsIcon" pc="268440109" symbol="draw"/>
+<entry filename="Rez" id="65" lineNum="129" parent="globals/Rez/Drawables/StepsIcon" pc="268442018" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="65" lineNum="129" parent="globals/Rez/Drawables/StepsIcon" pc="268442018" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="66" lineNum="2" parent="globals/Rez/Drawables" pc="268441941" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="67" lineNum="153" parent="globals/Rez/Fonts" pc="268442038" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="68" lineNum="155" parent="globals/Rez/JsonData" pc="268442040" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="69" lineNum="164" parent="globals/Rez/Layouts" pc="268440140" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="166" parent="globals/Rez/Layouts" pc="268440152" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="167" parent="globals/Rez/Layouts" pc="268440176" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="168" parent="globals/Rez/Layouts" pc="268440362" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="169" parent="globals/Rez/Layouts" pc="268440386" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="170" parent="globals/Rez/Layouts" pc="268440426" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="171" parent="globals/Rez/Layouts" pc="268440439" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="173" parent="globals/Rez/Layouts" pc="268440455" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="174" parent="globals/Rez/Layouts" pc="268440614" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="175" parent="globals/Rez/Layouts" pc="268440773" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="176" parent="globals/Rez/Layouts" pc="268440813" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="177" parent="globals/Rez/Layouts" pc="268440826" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="179" parent="globals/Rez/Layouts" pc="268440842" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="180" parent="globals/Rez/Layouts" pc="268441001" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="181" parent="globals/Rez/Layouts" pc="268441041" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="182" parent="globals/Rez/Layouts" pc="268441054" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="184" parent="globals/Rez/Layouts" pc="268441070" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="185" parent="globals/Rez/Layouts" pc="268441110" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="186" parent="globals/Rez/Layouts" pc="268441123" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="188" parent="globals/Rez/Layouts" pc="268441139" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="189" parent="globals/Rez/Layouts" pc="268441298" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="190" parent="globals/Rez/Layouts" pc="268441338" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="191" parent="globals/Rez/Layouts" pc="268441351" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="193" parent="globals/Rez/Layouts" pc="268441367" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="194" parent="globals/Rez/Layouts" pc="268441526" symbol="WatchFace"/>
+<entry filename="Rez" id="69" lineNum="196" parent="globals/Rez/Layouts" pc="268441712" symbol="WatchFace"/>
+<entry filename="Rez" id="70" lineNum="157" parent="globals/Rez/Layouts" pc="268442039" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="71" lineNum="201" parent="globals/Rez/Menus" pc="268442037" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="72" lineNum="203" parent="globals/Rez/Strings" pc="268442041" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="73" lineNum="1" parent="globals/Rez" pc="268441917" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="73" lineNum="1" parent="globals/Rez" pc="268441917" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="22" method="true" symbol="getGlucoseText"/>
+<entry field="true" id="30" symbol="Steps"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="50" symbol="ColorRed"/>
+<entry field="true" id="31" symbol="Flat"/>
+<entry field="true" id="14" symbol="mCallback"/>
+<entry id="13" object="true" symbol="CommsRelay"/>
+<entry field="true" id="37" symbol="DoubleUp"/>
+<entry field="true" id="35" symbol="SingleUp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="28" symbol="arrow2"/>
+<entry id="43" object="true" symbol="HeartRate"/>
+<entry id="8390063" method="true" symbol="onTransmitComplete"/>
+<entry field="true" id="49" symbol="ColorBlue"/>
+<entry field="true" id="56" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="9" object="true" symbol="HeaderDrawable"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry field="true" id="46" symbol="image_arrow2"/>
+<entry id="42" object="true" symbol="Eventual"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="44" object="true" symbol="StepsIcon"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="27" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="52" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8391300" method="true" symbol="isVisible"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="33" symbol="FortyFiveUp"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="21" method="true" symbol="setEventualBG"/>
+<entry id="8389119" method="true" symbol="getDirection"/>
+<entry id="10" object="true" symbol="LoopBGServiceDelegate"/>
+<entry field="true" id="55" symbol="ColorWhite"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="54" symbol="ColorBlack"/>
+<entry id="25" method="true" symbol="getLoopColor"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="17" method="true" symbol="setHeartRate"/>
+<entry field="true" id="32" symbol="Unknown"/>
+<entry id="24" method="true" symbol="getMinutes"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="29" symbol="HR"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="41" object="true" symbol="line2"/>
+<entry id="40" object="true" symbol="line1"/>
+<entry field="true" id="47" symbol="image_Steps"/>
+<entry field="true" id="36" symbol="SingleDown"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="12" object="true" symbol="LoopWatchfaceView"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="51" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="11" object="true" symbol="LoopWatchfaceApp"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="23" method="true" symbol="getDeltaText"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8391507" method="true" symbol="onPhoneAppMessage"/>
+<entry field="true" id="45" symbol="image_HR"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="38" symbol="DoubleDown"/>
+<entry id="16" method="true" symbol="setDate"/>
+<entry field="true" id="53" symbol="PrimaryColorTitle"/>
+<entry field="true" id="48" symbol="ColorLightGray"/>
+<entry id="8391701" method="true" symbol="setAntiAlias"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry id="20" method="true" symbol="setCOB"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="26" module="true" symbol="Layouts"/>
+<entry id="19" method="true" symbol="setIOB"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="18" method="true" symbol="setSteps"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="15" method="true" symbol="setTime"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="34" symbol="FortyFiveDown"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436211" name="dictionary" stackId="1" startPc="268436171"/>
+<entry endPc="268436902" name="glucoseWidth" stackId="7" startPc="268436217"/>
+<entry endPc="268436902" name="width" stackId="2" startPc="268436217"/>
+<entry endPc="268436902" name="deltaText" stackId="6" startPc="268436217"/>
+<entry endPc="268436902" name="glucoseText" stackId="5" startPc="268436217"/>
+<entry endPc="268436902" name="primaryColor" stackId="4" startPc="268436217"/>
+<entry endPc="268436902" name="glucoseY" stackId="11" startPc="268436217"/>
+<entry endPc="268436902" name="min" stackId="12" startPc="268436217"/>
+<entry endPc="268436902" name="glucoseX" stackId="10" startPc="268436217"/>
+<entry endPc="268436902" name="loopColor" stackId="13" startPc="268436217"/>
+<entry endPc="268436902" name="glucoseHeight" stackId="8" startPc="268436217"/>
+<entry endPc="268436902" name="deltaHeight" stackId="9" startPc="268436217"/>
+<entry endPc="268436902" name="height" stackId="3" startPc="268436217"/>
+<entry endPc="268436902" name="loopString" stackId="14" startPc="268436217"/>
+<entry arg="true" endPc="268436903" name="dc" stackId="1" startPc="268436213"/>
+<entry endPc="268436983" name="status" stackId="1" startPc="268436908"/>
+<entry endPc="268436983" name="bgString" stackId="3" startPc="268436908"/>
+<entry endPc="268436983" name="bg" stackId="2" startPc="268436908"/>
+<entry endPc="268437064" name="deltaString" stackId="3" startPc="268436989"/>
+<entry endPc="268437064" name="status" stackId="1" startPc="268436989"/>
+<entry endPc="268437064" name="delta" stackId="2" startPc="268436989"/>
+<entry endPc="268437645" name="status" stackId="2" startPc="268437070"/>
+<entry endPc="268437645" name="trend" stackId="3" startPc="268437070"/>
+<entry endPc="268437645" name="bitmap" stackId="1" startPc="268437070"/>
+<entry endPc="268437762" name="status" stackId="1" startPc="268437651"/>
+<entry endPc="268437762" name="now" stackId="3" startPc="268437651"/>
+<entry endPc="268437762" name="lastLoopDate" stackId="2" startPc="268437651"/>
+<entry endPc="268437762" name="min" stackId="4" startPc="268437651"/>
+<entry arg="true" endPc="268437862" name="min" stackId="1" startPc="268437764"/>
+<entry arg="true" endPc="268435645" name="msg" stackId="1" startPc="268435565"/>
+<entry arg="true" endPc="268435718" name="isSuccess" stackId="1" startPc="268435646"/>
+<entry arg="true" endPc="268435877" name="state" stackId="1" startPc="268435742"/>
+<entry arg="true" endPc="268435882" name="state" stackId="1" startPc="268435878"/>
+<entry arg="true" endPc="268435983" name="data" stackId="1" startPc="268435946"/>
+<entry arg="true" endPc="268437956" name="dc" stackId="1" startPc="268437915"/>
+<entry arg="true" endPc="268438091" name="dc" stackId="1" startPc="268437983"/>
+<entry endPc="268438370" name="view" stackId="6" startPc="268438096"/>
+<entry endPc="268438370" name="hours" stackId="3" startPc="268438096"/>
+<entry endPc="268438370" name="timeString" stackId="5" startPc="268438096"/>
+<entry endPc="268438370" name="clockTime" stackId="2" startPc="268438096"/>
+<entry endPc="268438370" name="suffix" stackId="4" startPc="268438096"/>
+<entry endPc="268438370" name="timeFormat" stackId="1" startPc="268438096"/>
+<entry endPc="268438574" name="view" stackId="4" startPc="268438376"/>
+<entry endPc="268438574" name="dateStr" stackId="3" startPc="268438376"/>
+<entry endPc="268438574" name="now" stackId="1" startPc="268438376"/>
+<entry endPc="268438574" name="info" stackId="2" startPc="268438376"/>
+<entry endPc="268438672" name="view" stackId="4" startPc="268438580"/>
+<entry endPc="268438672" name="hr" stackId="2" startPc="268438580"/>
+<entry endPc="268438672" name="info" stackId="1" startPc="268438580"/>
+<entry endPc="268438672" name="hrString" stackId="3" startPc="268438580"/>
+<entry endPc="268438863" name="view" stackId="7" startPc="268438678"/>
+<entry endPc="268438863" name="myStats" stackId="1" startPc="268438678"/>
+<entry endPc="268438863" name="steps" stackId="5" startPc="268438678"/>
+<entry endPc="268438863" name="batlevel" stackId="2" startPc="268438678"/>
+<entry endPc="268438863" name="batString" stackId="3" startPc="268438678"/>
+<entry endPc="268438863" name="info" stackId="4" startPc="268438678"/>
+<entry endPc="268438863" name="stepsString" stackId="6" startPc="268438678"/>
+<entry endPc="268439011" name="iobString" stackId="4" startPc="268438869"/>
+<entry endPc="268439011" name="iob" stackId="3" startPc="268438869"/>
+<entry endPc="268439011" name="status" stackId="2" startPc="268438869"/>
+<entry endPc="268439011" name="view" stackId="1" startPc="268438869"/>
+<entry endPc="268439159" name="status" stackId="2" startPc="268439017"/>
+<entry endPc="268439159" name="view" stackId="1" startPc="268439017"/>
+<entry endPc="268439159" name="cob" stackId="3" startPc="268439017"/>
+<entry endPc="268439159" name="cobString" stackId="4" startPc="268439017"/>
+<entry endPc="268439324" name="ebgString" stackId="4" startPc="268439165"/>
+<entry endPc="268439324" name="status" stackId="2" startPc="268439165"/>
+<entry endPc="268439324" name="view" stackId="1" startPc="268439165"/>
+<entry endPc="268439324" name="ebg" stackId="3" startPc="268439165"/>
+<entry endPc="268439385" name="dictionary" stackId="1" startPc="268439345"/>
+<entry arg="true" endPc="268439452" name="dc" stackId="1" startPc="268439387"/>
+<entry arg="true" endPc="268436058" name="callback" stackId="1" startPc="268436026"/>
+<entry arg="true" endPc="268439584" name="dc" stackId="1" startPc="268439482"/>
+<entry arg="true" endPc="268439716" name="dc" stackId="1" startPc="268439614"/>
+<entry arg="true" endPc="268439857" name="dc" stackId="1" startPc="268439793"/>
+<entry arg="true" endPc="268439998" name="dc" stackId="1" startPc="268439934"/>
+<entry arg="true" endPc="268440139" name="dc" stackId="1" startPc="268440075"/>
+<entry endPc="268441858" name="rez_cmp_local_text_StepsLabel" stackId="14" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_textarea_TimeLabel" stackId="3" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_10009116731673883681" stackId="4" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_textarea_DateLabel" stackId="15" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_StepsIcon" stackId="13" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_line2" stackId="10" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_Eventual" stackId="8" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_HeartRate" stackId="11" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_line1" stackId="5" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_custom_drawable_69279251892204366653" stackId="2" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_text_HRLabel" stackId="12" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_text_IOBLabel" stackId="6" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_text_COBLabel" stackId="7" startPc="268440152"/>
+<entry endPc="268441858" name="rez_cmp_local_text_EventualBGLabel" stackId="9" startPc="268440152"/>
+<entry arg="true" endPc="268441859" name="dc" stackId="1" startPc="268440140"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="arrow2"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="HR"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Steps"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Flat"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Unknown"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="FortyFiveUp"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="FortyFiveDown"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="SingleUp"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="SingleDown"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="DoubleUp"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="DoubleDown"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Eventual" module="globals/Rez/Drawables" symbol="image_arrow2"/>
+<annotationEntry annotation="initialized" class="HeartRate" module="globals/Rez/Drawables" symbol="image_HR"/>
+<annotationEntry annotation="initialized" class="StepsIcon" module="globals/Rez/Drawables" symbol="image_Steps"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PrimaryColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/LoopBGServiceDelegate" offset="190" parentId="globals" symbolId="LoopBGServiceDelegate" type="class"/>
+<dataEntry label="globals/CommsRelay" offset="261" parentId="globals" symbolId="CommsRelay" type="class"/>
+<dataEntry label="globals/LoopWatchfaceApp" offset="332" parentId="globals" symbolId="LoopWatchfaceApp" type="class"/>
+<dataEntry label="globals/Background" offset="1073" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/LoopWatchfaceView" offset="1128" parentId="globals" symbolId="LoopWatchfaceView" type="class"/>
+<dataEntry label="globals/HeaderDrawable" offset="1279" parentId="globals" symbolId="HeaderDrawable" type="class"/>
+<dataEntry label="globals/Rez" offset="1374" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1453" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Drawables/line2" offset="1620" parentId="Drawables" symbolId="line2" type="class"/>
+<dataEntry label="globals/Rez/Drawables/line1" offset="1675" parentId="Drawables" symbolId="line1" type="class"/>
+<dataEntry label="globals/Rez/Drawables/HeartRate" offset="1730" parentId="Drawables" symbolId="HeartRate" type="class"/>
+<dataEntry label="globals/Rez/Drawables/Eventual" offset="1793" parentId="Drawables" symbolId="Eventual" type="class"/>
+<dataEntry label="globals/Rez/Drawables/StepsIcon" offset="1856" parentId="Drawables" symbolId="StepsIcon" type="class"/>
+<dataEntry label="globals/Rez/Menus" offset="1919" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="1950" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="1981" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="2020" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="2051" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268436212" name="initialize" parent="HeaderDrawable" startPc="268436167">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436903" name="draw" parent="HeaderDrawable" startPc="268436213">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436984" name="getGlucoseText" parent="HeaderDrawable" startPc="268436904">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437065" name="getDeltaText" parent="HeaderDrawable" startPc="268436985">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437646" name="getDirection" parent="HeaderDrawable" startPc="268437066">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437763" name="getMinutes" parent="HeaderDrawable" startPc="268437647">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437862" name="getLoopColor" parent="HeaderDrawable" startPc="268437764">
+<param id="min"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441916" name="&lt;init&gt;" parent="HeaderDrawable" startPc="268441898">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="LoopBGServiceDelegate" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435564" name="onTemporalEvent" parent="LoopBGServiceDelegate" startPc="268435479">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435645" name="onPhoneAppMessage" parent="LoopBGServiceDelegate" startPc="268435565">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435718" name="onTransmitComplete" parent="LoopBGServiceDelegate" startPc="268435646">
+<param id="isSuccess"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436128" name="&lt;init&gt;" parent="LoopBGServiceDelegate" startPc="268436110">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435741" name="initialize" parent="LoopWatchfaceApp" startPc="268435719">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435877" name="onStart" parent="LoopWatchfaceApp" startPc="268435742">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435882" name="onStop" parent="LoopWatchfaceApp" startPc="268435878">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435924" name="getInitialView" parent="LoopWatchfaceApp" startPc="268435883">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435945" name="onSettingsChanged" parent="LoopWatchfaceApp" startPc="268435925">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435983" name="onBackgroundData" parent="LoopWatchfaceApp" startPc="268435946">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436025" name="getServiceDelegate" parent="LoopWatchfaceApp" startPc="268435984">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436166" name="&lt;init&gt;" parent="LoopWatchfaceApp" startPc="268436148">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437891" name="getApp" startPc="268437863">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437914" name="initialize" parent="LoopWatchfaceView" startPc="268437892">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437956" name="onLayout" parent="LoopWatchfaceView" startPc="268437915">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437982" name="onShow" parent="LoopWatchfaceView" startPc="268437957">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438091" name="onUpdate" parent="LoopWatchfaceView" startPc="268437983">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438371" name="setTime" parent="LoopWatchfaceView" startPc="268438092">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438575" name="setDate" parent="LoopWatchfaceView" startPc="268438372">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438673" name="setHeartRate" parent="LoopWatchfaceView" startPc="268438576">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438864" name="setSteps" parent="LoopWatchfaceView" startPc="268438674">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439012" name="setIOB" parent="LoopWatchfaceView" startPc="268438865">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439160" name="setCOB" parent="LoopWatchfaceView" startPc="268439013">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439325" name="setEventualBG" parent="LoopWatchfaceView" startPc="268439161">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439330" name="onHide" parent="LoopWatchfaceView" startPc="268439326">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439335" name="onExitSleep" parent="LoopWatchfaceView" startPc="268439331">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439340" name="onEnterSleep" parent="LoopWatchfaceView" startPc="268439336">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441897" name="&lt;init&gt;" parent="LoopWatchfaceView" startPc="268441879">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439386" name="initialize" parent="Background" startPc="268439341">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439452" name="draw" parent="Background" startPc="268439387">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441878" name="&lt;init&gt;" parent="Background" startPc="268441860">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436058" name="initialize" parent="CommsRelay" startPc="268436026">
+<param id="callback"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436083" name="onComplete" parent="CommsRelay" startPc="268436059">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436108" name="onError" parent="CommsRelay" startPc="268436084">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436147" name="&lt;init&gt;" parent="CommsRelay" startPc="268436129">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439481" name="initialize" parent="line1" startPc="268439453">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439584" name="draw" parent="line1" startPc="268439482">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441979" name="&lt;init&gt;" parent="line1" startPc="268441961">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439613" name="initialize" parent="line2" startPc="268439585">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439716" name="draw" parent="line2" startPc="268439614">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441960" name="&lt;init&gt;" parent="line2" startPc="268441942">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439792" name="initialize" parent="Eventual" startPc="268439717">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439857" name="draw" parent="Eventual" startPc="268439793">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442017" name="&lt;init&gt;" parent="Eventual" startPc="268441999">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439933" name="initialize" parent="HeartRate" startPc="268439858">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439998" name="draw" parent="HeartRate" startPc="268439934">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441998" name="&lt;init&gt;" parent="HeartRate" startPc="268441980">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440074" name="initialize" parent="StepsIcon" startPc="268439999">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440139" name="draw" parent="StepsIcon" startPc="268440075">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442036" name="&lt;init&gt;" parent="StepsIcon" startPc="268442018">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441941" name="&lt;init&gt;" parent="Drawables" startPc="268441941">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442038" name="&lt;init&gt;" parent="Fonts" startPc="268442038">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442040" name="&lt;init&gt;" parent="JsonData" startPc="268442040">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441859" name="WatchFace" parent="Layouts" startPc="268440140">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442039" name="&lt;init&gt;" parent="Layouts" startPc="268442039">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442037" name="&lt;init&gt;" parent="Menus" startPc="268442037">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442041" name="&lt;init&gt;" parent="Strings" startPc="268442041">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441940" name="&lt;init&gt;" parent="Rez" startPc="268441917">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
